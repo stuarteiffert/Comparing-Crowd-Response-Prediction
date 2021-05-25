@@ -17,10 +17,10 @@ By comparing the accuracy of predictions when conditioned on the known future or
 ## Comparisons
 
 ### Compared Methods
-    SRLSTM [[8]](https://arxiv.org/abs/1903.02793)
-    GRNN [[9]](https://arxiv.org/abs/2001.11597)
-    ORCA [[10]](https://gamma.cs.unc.edu/ORCA/publications/ORCA.pdf)
-    Social Force Model (SFM) [[11]](https://arxiv.org/abs/cond-mat/9805244)
+- SRLSTM [[8]](https://arxiv.org/abs/1903.02793)
+- GRNN [[9]](https://arxiv.org/abs/2001.11597)
+- ORCA [[10]](https://gamma.cs.unc.edu/ORCA/publications/ORCA.pdf)
+- Social Force Model (SFM) [[11]](https://arxiv.org/abs/cond-mat/9805244)
 
 ### Methodology
 
